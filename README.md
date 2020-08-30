@@ -16,3 +16,4 @@ The purpose of this project is to build a on screen display that can be mounted 
   - CPU, Mem usage gathered using a collectd service running on the pi
 
 ## Tech Stack
+* Debian Buster armv7l
