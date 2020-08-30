@@ -17,3 +17,7 @@ The purpose of this project is to build a on screen display that can be mounted 
 
 ## Tech Stack
 * Debian Buster armv7l
+* Python 3 (3.7.3)
+* Python dependency packages (pip3 install)
+  - [rpi_ws281x](https://github.com/rpi-ws281x/rpi-ws281x-python)
+  - [adafruit-circuitpython-neopixel](https://github.com/adafruit/Adafruit_CircuitPython_NeoPixel)
